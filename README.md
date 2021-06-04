@@ -1,2 +1,2 @@
-# 256637_JavaOops
+# 256637-JavaOops-Activities
 Stepin Oops with Java
