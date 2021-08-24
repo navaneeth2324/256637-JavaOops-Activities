@@ -34,7 +34,7 @@ public static void main(String[] args) {
 	System.out.println("Enter Employee Names:");
 	String str=sc.next();
 	c.setEmployees(str);
-	System.out.println("Enter Teamlead :");
+	System.out.println("Enter Leader of Team :");
 	c.setTeamlead(sc.next());
 	System.out.println("Name:"+c.getName());
 	System.out.println("Employees:"+c.getEmployees());
